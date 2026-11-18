@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: musk-quote-check
+expected_outcome: |
+  确认这句话出自马斯克，英文原话为 "If things aren't not failing you are not innovating enough" 或相近，出处是 2005 年 Fast Company 的文章 Hondas in Space，给出出处，并说明英文原文和流传中文版的差别（如有）。

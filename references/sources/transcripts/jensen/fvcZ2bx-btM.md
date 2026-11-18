@@ -1,0 +1,26 @@
+# FULL REMARKS: Nvidia CEO Jensen Huang Hails Taiwan’s Role as AI Growth Drives New Chips | AI1G
+
+- 人物: jensen
+- 视频编号: fvcZ2bx-btM
+- 频道: DRM News
+- 日期: 2026-02
+- 分类: interview
+- 时长: 0:07:01
+- 链接: https://www.youtube.com/watch?v=fvcZ2bx-btM
+- 来源: YouTube 字幕(多为自动生成,不分说话人,可能有听错)
+
+---
+
+[0:00:12] Take a picture. Okay. camera. Thank you. >> Okay. Got >> you many people. >> Yeah, it's okay. Okay. Who? >> It's your man. >> Welcome to Welcome to our Chinese New Year party. >> You are very festive today, Jess. >> I am. >> This is This is very Taiwan, right? >> I'm feeling great. I'm very happy to be here. This is one of my favorite things all year and uh to celebrate the new year and also to thank everybody for the amazing work from last year. Uh we uh as you know had a very very busy year and uh we introduced many new products and uh and uh helped many companies get into artificial intelligence and uh the uh the companies and partners here in
+
+[0:01:13] Taiwan has been very supportive of us and so I'm very grateful for that and all of our employees work very hard. So tonight, tonight we're going to celebrate. >> Can you tell us a little bit about your meeting with your partners and customers here in Taiwan? Anything that you can reveal? Any new deals? >> Uh I haven't I haven't uh uh the only the only meetings I've had so far is dinner with Morris and um I was very happy to see him. Uh and then and then uh tonight, you know, tonight we're here. I've had a employee meeting uh in our in our new office in Nankang and um so I was very happy to do that and here here we are. But this uh this uh next couple of days today Friday, right? >> Yeah. So Saturday and Sunday I have uh partner dinners and I have uh some partner meetings. Uh I'm very very uh grateful that that uh my partners can see me on the weekend and I'm looking forward to seeing them. There's a rumor saying that we we got N1 processors like cooperate with MediaTek. Is it true?
+
+[0:02:16] Like PC CPU? >> Well, we had we partnered with MediaTek to build a very powerful SOC and it's a low power but very powerful and it's designed for uh computers with very strong artificial intelligence. The the applications the applications are quite many. So yeah, how about I'll take a two more questions and I better go in. >> Uh here in Taiwan, we're growing very fast. Uh as you know, uh the comp Nvidia is growing very fast and uh the number of chips that we build. We used to build just GPUs but now we build networking chips, switch chips and uh two different types. We build uh smart data processors for storage and networking. We also build CPUs and so the number of chips that we designed went from one to now
+
+[0:03:18] seven. So many different types of chips. So we need a lot of engineers. We also build a lot of complicated systems. You know people think that Nvidia builds GPUs which is true. Uh but our GPUs today are supercomputers and these supercomputers require so many partners here and um uh so we this is the this is the uh beginning of our of our company's uh supply chain and ecosystem and so we need a lot more people here chip design system design software engineers um supply chain supply chain partners you know lots and lots of people okay I'll take one more question >> the media just released release a blueprint for for America national content initiative and uh Nvidia wants US gr US Congress to renew it and why does why is this so important and what what kind of role can Taiwanese supply chain play in quantum computing >> well quantum computing is the f is used for simulating nature uh computing is
+
+[0:04:22] not going to change we're still going to use CPUs we're still going to have GPUs artificial intelligence will still be the important computing model of the future. But there are many problems like simulating digital biology uh where quantum computers just simulate nature because it is nature simulating nature. Uh uh in even a quantum computer needs accelerated computing and so we've been working with the quantum computing industry to sol to integrate a hybrid GPU and QPU uh supercomputer for the future. uh this is this is uh important for digital biology. It's important for material sciences. Uh and then we'll discover other applications as well. But these are very important applications. I think the the uh the quantum the the quantum breakthroughs uh of one logical error corrected quantum computing bit has been achieved and over the next several years you're going to see it uh grow exponentially. So I think that in the coming years we're going to start to to start to start to see quantum computers solve real problems and uh
+
+[0:05:27] every every every um uh uh research institution that is making advances in digital biology uh in material sciences and in the future of computing should get involved in quantum computing. And so I'm very happy to see that Taiwan has very deep science and very uh deep focus in in quantum computing. Okay. Hey everybody, it's great to see all of you employees. >> How many employees here tonight? How many employees are here tonight? Hey Raymond, how many employees here tonight? Vanessa. Okay, thank you. And I saw the fruit lady. She's finally
+
+[0:06:59] Well,
