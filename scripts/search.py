@@ -9,6 +9,7 @@ Examples:
   python3 scripts/search.py "speed of light" --person jensen --source transcripts --limit 15
   python3 scripts/search.py "delete" "requirement" --source x
   python3 scripts/search.py --regex "limiting factor|bottleneck" --person elon
+  python3 scripts/search.py "focus" "saying no" --person jobs
 
 Matching: every term must appear in the same passage (case-insensitive). Use --regex for one regular expression instead.
 Output: one block per hit with date, title/type, the passage (plus neighbouring lines with --context), and a source link.
@@ -56,7 +57,7 @@ def trim(passage, a):
 
 
 def transcripts(a, hit):
-    people = ["elon", "jensen"] if a.person == "all" else [a.person]
+    people = ["elon", "jensen", "jobs"] if a.person == "all" else [a.person]
     for who in people:
         for f in sorted((SRC / "transcripts" / who).glob("*.md")):
             text = f.read_text(encoding="utf-8", errors="ignore")
@@ -84,7 +85,7 @@ def transcripts(a, hit):
 
 
 def tweets(a, hit):
-    if a.person == "jensen":
+    if a.person not in ("all", "elon"):  # 只有马斯克有推文
         return
     line_rx = re.compile(r"^- (\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}) · (.*) \((https://x\.com/\S+)\)$")
     for name, kind in (("elon-musk-x-posts.md", "post"), ("elon-musk-x-replies.md", "reply")):
@@ -101,7 +102,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("terms", nargs="*", help="words that must all appear (case-insensitive)")
     ap.add_argument("--regex", help="use one regular expression instead of terms")
-    ap.add_argument("--person", choices=["elon", "jensen", "all"], default="all")
+    ap.add_argument("--person", choices=["elon", "jensen", "jobs", "all"], default="all")
     ap.add_argument("--source", choices=["transcripts", "x", "all"], default="all")
     ap.add_argument("--years", help="e.g. 2018-2022 or 2024")
     ap.add_argument("--context", type=int, default=1, help="neighbouring transcript lines to include (default 1)")

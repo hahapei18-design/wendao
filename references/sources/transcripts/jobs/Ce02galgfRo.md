@@ -1,0 +1,22 @@
+# Steve Jobs Gives a Tour of the First Apple Store, May 2001
+
+- 人物: jobs
+- 视频编号: Ce02galgfRo
+- 频道: all about Steve Jobs.com
+- 日期: 2001-05-13
+- 分类: interview
+- 时长: 0:04:58
+- 链接: https://www.youtube.com/watch?v=Ce02galgfRo
+- 来源: 网站 Whisper 转写(全部说话人,不分说话人,可能有听错)
+
+---
+
+[0:00:08] Hi, I'm Steve Jobs, and I'm here at Tyson's Corner Mall in Virginia right outside of Washington, D.C. And I'm standing in front of this wood barricade we've built in front of our first retail store that's going to open in six days. Now, nobody's seen inside here yet, and I'd like to take you inside for a secret little private tour. So come on in. Now, this is our store. And the store is divided into four parts. The first quarter of the store has our home section with great home and education products and our pro section with all our great pro products. And every product we make is in this first 25% of the store. You can see the whole product line. And as you see up on the ceiling, we've even labeled the sections, home music, kids, genius
+
+[0:01:08] on this side, and pro movie photos, and et cetera, on this side. So the first 25% shows you our entire product line. Now there's 36 computers on display in the store. Every single one of them is connected to the internet. So you can go up to any computer and start surfing, go to your personal website, or do whatever you want to do on the internet. And all of our portables are connected with airport wireless networking, so you can experience that for yourself. It's pretty great. So come on over here. Let me show you what we got going in the home section. Here's our newest iBook. We've got iBooks on display. Most of the products are running self-running demos, but you can just walk up to them and start using them for anything you like. And here we've got three iBooks on display, and we've got every single model of iMac we make as well. We've got our new PowerBook G4 Titaniums running here, again, all running macOS 10, all on airports. So you can just pick these up and see what it's really like to have wireless connection
+
+[0:02:08] to the internet. Then we've got every PowerMac we make here, along with all of our great displays, including the 22-inch cinema display. The center half of the store, literally half the store, is devoted to solutions because people don't just want to buy personal computers anymore. They want to know what they can do with them, and we're going to show people exactly that. And so we've got four sections. The solutions we've chosen to feature now are music, movies, photos, and kids. And so come on over here as an example. You can bring your kids into our store, and they can just sit a spell, play their favorite games, and we have the best selection of Mac education software that I've ever seen, and you can buy the best educational titles for your kids. We decided carrying our own products wasn't enough. So not only do we have over 300 software titles here that we'll look at in a minute, but we
+
+[0:03:11] have 24 of the best portable digital devices. We're carrying six digital camcorders, six digital cameras, six MP3 players, and six handheld organizers. So if we look right back at you here, we've got three cannons and three Sony's. So you can come in here and not only can you buy these digital devices, but you can actually hook them right up to the max and take them for a spin. Wouldn't it be great if when you went to buy a computer, or after you bought a computer? If you had any questions, you could ask a genius. Well, that's what we've got. This is called the genius bar. As you can see, we've got some pictures of our heroes up here, and this bar here, I'm not a genius, but I'll stand behind here. There'll be somebody here who can do service right in the store and who can answer any questions you've got about your Mac or about any of the peripherals or software that work
+
+[0:04:14] with it. And if that person doesn't know the answer, they got a hotline to call us in Cupertino at Apple headquarters where we have somebody who does. And so we're hoping this is going to be an entirely new thing. We're so excited about this. We can't wait to let customers in the store. So let's walk through the software aisle in the middle. One last thing I want to show you is all our great software. Look at this stuff. 300 titles here from games to the most sophisticated pro applications. There's something for everybody here. I'll see you when the store opens.

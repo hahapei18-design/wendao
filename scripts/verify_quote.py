@@ -44,7 +44,7 @@ def norm(s):
 class Corpus:
     def __init__(self):
         self.docs = {}  # (who, id) -> dict(url, paras[(sec|None, norm)], all)
-        for who in ("elon", "jensen"):
+        for who in ("elon", "jensen", "jobs"):
             for f in (SRC / "transcripts" / who).glob("*.md"):
                 text = f.read_text(encoding="utf-8", errors="ignore")
                 head = text[:3000]
@@ -57,11 +57,15 @@ class Corpus:
                         paras.append((int(h) * 3600 + int(mi) * 60 + int(s), norm(body)))
                 self.docs[(who, f.stem)] = {"url": m.group(1) if m else "", "paras": paras, "all": norm(text)}
         self.quotes = {}  # person -> [(norm text, source text)] from references/sources/quotes/
-        for who in ("elon", "jensen"):
+        for who in ("elon", "jensen", "jobs"):
             f = SRC / "quotes" / (who + ".md")
             if f.exists():
+                qt = f.read_text(encoding="utf-8")
                 self.quotes[who] = [(norm(m.group(1)), m.group(2)) for m in
-                                    re.finditer(r"^- \u201c(.*)\u201d \((.*)\)$", f.read_text(encoding="utf-8"), re.M)]
+                                    re.finditer(r"^- \u201c(.*)\u201d \((.*)\)$", qt, re.M)]
+                # 乔布斯的名言集是另一种写法: "> 原话" 下一行 "— 出处 (链接)"
+                self.quotes[who] += [(norm(m.group(1)), m.group(2)) for m in
+                                     re.finditer(r"^> (.*)\n\u2014 (.*)$", qt, re.M)]
         self.tweets = {}
         for f in (SRC / "x").glob("*.md"):
             for m in re.finditer(r"^- \S+ \S+ · (.*) \(https://x\.com/\w+/status/(\d+)\)$", f.read_text(encoding="utf-8"), re.M):
@@ -112,7 +116,7 @@ def main():
     ap.add_argument("file", nargs="?", help="markdown file whose  > \"...\"  lines should be checked")
     ap.add_argument("--quote")
     ap.add_argument("--url", default="")
-    ap.add_argument("--person", choices=["elon", "jensen", "all"], default="all")
+    ap.add_argument("--person", choices=["elon", "jensen", "jobs", "all"], default="all")
     a = ap.parse_args()
     c = Corpus()
     if a.quote:

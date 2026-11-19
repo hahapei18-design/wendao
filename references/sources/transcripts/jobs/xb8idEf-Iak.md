@@ -1,0 +1,26 @@
+# 1993 interview re: Paul Rand and Steve Jobs
+
+- 人物: jobs
+- 视频编号: xb8idEf-Iak
+- 频道: youareworthy
+- 日期: 1993
+- 分类: interview
+- 时长: 0:07:31
+- 链接: https://www.youtube.com/watch?v=xb8idEf-Iak
+- 来源: YouTube 字幕(多为自动生成,不分说话人,可能有听错)
+
+---
+
+[0:00:10] I had seen a lot of his work but didn't know too much about him. And uh when we were starting our uh our quest for what our corporate identity was going to be, uh a person that we had in house gave me a few of his books and and articles to read and I got up to speed on who, you know, who he was and the the immense body of his work, which I wasn't familiar with at the time. Was he the first designer that you approached? He was the only one we approached and he said he'd love to do it. So he came out and visited us several times at next and got to know the company and the people and uh I think uh solved a very difficult problem for us. The problem he solved was generally uh most companies have their logo is just a logo type and uh every once in a while a company has a logo that's sort of a little jewel a symbol without uh that can be used independently of the logo type. And at Apple we had such a symbol. Matter of fact at Apple it was very rare because the symbol was the name of the company.
+
+[0:01:14] It was a thing that had the same name as the company, an Apple. Our challenge was that usually it takes, you know, 10 years and $100 million to associate a symbol with the name of the company. Our challenge was how could we have a little jewel that we could use without the name to put on the product, uh, etc. without spending, you know, $100 million in 10 years to association in the customer's mind. And Paul solved that by by making us a little jewel that had contained in it the name of the company. Uh and I think that uh he really approached it as a problem that had to be solved, not an artistic challenge for its own sake. What was he like to work with? Paul's a gem. Uh I think he personally kind of works on perfecting the uh perfecting the exterior of kind of a chromagin. Uh I think he's perfected it to new heights actually. And uh and it's all sort of a I think it's his way of dealing with the
+
+[0:02:19] the part of the world that he doesn't necessarily want to deal with. I found him to be extremely bright and really have a heart of gold. Yeah. I I sort of when I think of Paul, I think of a sort of a slightly tough exterior and and a teddy bear inside. Um, but in particular working with him, he is one of the most professional people I've ever worked with in the sense that he'd thought through all of the formal relationship between a client and uh a professional such as himself. obviously very deep thoughts about this and and uh therefore he had very clear conclusions uh about what the relationship meant to to to both parties and how it should be conducted. For example, um I asked him if he would come up with a few options and he said, "No, I will solve your problem for you and you will pay me and you don't have to use the solution. If
+
+[0:03:21] you want options, go talk to other people, but I'll solve your problem for you the best way I know how and you use it or not. that's up to you. You're the client, but you pay me. And there was a clarity about the relationship uh that was refreshing and and again really obviously the result of uh of of thinking about that relationship for for many years or decades and it was evident in several types of of things that came up throughout the relationship. Paul's a phenomenal thinker and I mean he's a phenomenal writer and I think to be a phenomenal writer that's just a reflection of his his thinking. He's a very very deep thinker and um you go visit him in the house that he he designed and had built for himself decades ago and and you get a sense that this is a is a very deep thoughtful person who has tried to express in every part of his life what his principles are. Um and I I you don't meet so many people like that
+
+[0:04:23] today. How would you describe those principles? Paul's a very a very interesting interesting intertwining of a pure artist and somebody who is very astute at solving business problems. And you wouldn't normally, it's much easier to think of him as an artist, but I actually think of Paul as much as a as much as a as a business problemolver as I do an artist. And it's the marriage of those two things that I think the very very practical uh and the artist that that is is is unique. So, I'm not exactly sure how I if I could articulate his principles,
+
+[0:05:27] but you feel them when you're around him. And uh that's probably the best I can say. How would you describe his work? His work for me uh is very emotional and yet when you study it, it's very intellectual for me. Uh, and so if you scratch the surface on any of his work, you find out the depth of the intellectual problem solving that's taken place. And yet when you first see it, it's it's uh it's wonderfully emotional. And um that's a consistency that's been throughout all of his work that I've seen. Could you describe something that exemplifies that? Oh, one of my favorite things that he's done, of course, is is the uh the IBM poster with the I, the B, and the M. It was very powerful.
+
+[0:06:32] And um it it was that that depth again that you find from Paul that uh that I loved.

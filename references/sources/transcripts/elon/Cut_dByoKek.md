@@ -10,7 +10,7 @@
 - 来源: 网站 silicon-valley.tech 提供的文字稿。Transcript: automatic transcript of the podcast version (timestamps may differ from the video by a minute or two)。Transcript source: https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/58489734/imported_1706541277266105_audio.mp3。出处: https://silicon-valley.tech/elon/#v-yt-Cut_dByoKek
 - 重复: 与 S_vpv4I27hs 内容相同(同一场活动的另一份上传),查资料时以那篇为准
 
-- 重复: 和 S_vpv4I27hs 是同一场活动的另一个上传版本,搜索时默认跳过
+- 重复: 和 S_vpv4I27hs 是同一场活动的另一个上传版本(或从中剪出的片段),搜索时默认跳过
 
 ---
 

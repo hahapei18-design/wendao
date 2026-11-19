@@ -1,0 +1,24 @@
+# Steve Jobs rare interview 2003
+
+- 人物: jobs
+- 视频编号: ZUfzXz23ndo
+- 频道: Arjun Agarwal
+- 日期: 2003
+- 分类: interview
+- 时长: 0:05:44
+- 链接: https://www.youtube.com/watch?v=ZUfzXz23ndo
+- 来源: YouTube 字幕(多为自动生成,不分说话人,可能有听错)
+
+---
+
+[0:00:01] 60 minutes overtime this all started with George Lucas he had a problem now to describe this problem let me digress a little bit when you make a copy of an audio cassette tape let's say an analog copy of an audio recording you get uh noise artifacts hiss right we've all experienced that well the same thing happens when you make a a a an analog copy or an optical copy of a piece of film if you copy optic one piece of film to another you get hiss if you will and in this case the noise artifacts are visual you get you get a dirty frame well when George was making the original Star Wars he had to combine many many pieces of film together to make one frame some with the models some with the matte paintings some with the human characters some with the special effects and by the time he got through combining all these pieces of film to make just one frame of his movie it was dirty and uh he being the genius that he was thought I wonder if I could if I combine
+
+[0:01:03] them digitally if they could be totally clean because when you make a digital copy of an analog recording it's perfect and it turns out if you make a digital copy of a piece of film it's perfect sharper clearer sharper clearer without the noise artifact so George hired this guy named ed katel who was at the New York Institute of Technology to come out and build a computer group for him and to figure out how to solve this problem and they did and George was the first one to ever do this and after this problem was solved um George decided that he'd solve this problem and he he could uh he decided he would sell this computer group and um I ended up buying them I met Ed and Ed told me his dream was to to make the world's first computer animated film and I bought into that dream both sort of spiritually and financially and uh together we started Pixar in 1986 60 Minutes Overtime my model of business is the Beatles you know they were four very talented guys who who kept each other's
+
+[0:02:05] kind of negative tendencies in check uh they balanced each other and and and the sum was greater than the total was greater than the sum of the parts and that's how I see business you know great great things in business are never done by one person they're done by a they're done by a team of people and and we've got that here at Pixar um and we've got that at Apple as well and so that's that's what lets me do this well you know when The Beatles when they were together uh they did truly brilliant Innovative work and when they split up they did good work but it was it it it it was never the same and I I see business that way too it's really always a team 60 Minutes Overtime well as a person what's your biggest strength I've been very lucky in in meeting incredibly talented people and uh and and hanging out with them and so that's been my greatest strength and what's your biggest
+
+[0:03:07] weakness um you know I I think all of us all of us need to be on guard against arrogance which uh which knocks at the door whenever you're successful have you lived through that oh sure for sure now by that correct me if I'm wrong you had an incredible high with the initial success of apple and then other competitors get in and it uh it's sobering well as you you may know I was basically fired from Apple when I was 30 and uh and and was invited to come back 12 years later so so that was that was a difficult when it happened but maybe the best thing that ever happened to me there wouldn't be a Pixar if that hadn't happened you and uh so you know you just you move on life goes on and you learn from it we're at the end here but you were fired from Apple when you were 30
+
+[0:04:10] asked to come back when you were what 42 mhm did you think of that moment How Sweet It Is no I I thought at that moment um what a you know what a circle of life you know life is is just always mysterious and surprising and you never know what's around the next corner so 60 Minutes Overtime thank you uh thanks for coming today let's talk about Steve Jobs the person thank you what drives you Steve Jobs I like working with people uh that make products that will get used or experienced by a lot of people where you have a chance to to in a very small way influence uh how things go influence the way people look at at a product or or maybe even the world in a small way and um I I'm very lucky I get to do that at
+
+[0:05:16] Apple that's what it looks like very thin you know I still believe that the computer businesses in its infancy that there's a tremendous amount more tremendous amount of innovation that's going to be coming out uh um I I'm optimistic as to the future of the computer business

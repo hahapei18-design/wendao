@@ -10,7 +10,7 @@
 - 来源: 网站 silicon-valley.tech 提供的文字稿。Transcript: automatic transcript of the podcast version (timestamps may differ from the video by a minute or two)。Transcript source: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/30be3b09-c4d3-401f-a783-b4b700e5da7c/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75。出处: https://silicon-valley.tech/jensen/#v-yt-lNHrD_o6qlc
 - 重复: 与 9DdrGN9sGhA 内容相同(同一场活动的另一份上传),查资料时以那篇为准
 
-- 重复: 和 9DdrGN9sGhA 是同一场活动的另一个上传版本,搜索时默认跳过
+- 重复: 和 9DdrGN9sGhA 是同一场活动的另一个上传版本(或从中剪出的片段),搜索时默认跳过
 
 ---
 
